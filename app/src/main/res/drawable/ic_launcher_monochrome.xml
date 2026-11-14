@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome (themed icon) layer v5 (v0.1.10) — same locked G geometry as
+     ic_launcher_foreground.xml, but EVERYTHING single-colour white, including
+     the crossbar (JS: "everything's already monochrome except the horizontal
+     bar anyways, but still"). The launcher tints this for Nothing / themed
+     icons in light and dark. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="34"
+        android:strokeLineCap="round"
+        android:pathData="M318.0,148.6 A124,124 0 1 0 380,256" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="28"
+        android:strokeLineCap="round"
+        android:pathData="M256,194 C222,194 194,222 194,256 C194,290 222,318 256,318" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="34"
+        android:strokeLineCap="round"
+        android:pathData="M380,256 L310,256" />
+</vector>
